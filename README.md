@@ -1,5 +1,5 @@
 # Continuous Evaluation System
-
+## By Radhi Patel
 ## Overview
 
 This project is a Continuous Evaluation System for managing and evaluating student marks. It allows users to add, update, and delete student marks, generate mark sheets, and produce reports on failing students and top scorers. The system supports operations such as generating marksheets for specific courses and semesters, updating individual marks, and producing failure reports.
